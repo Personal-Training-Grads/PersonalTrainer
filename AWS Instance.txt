@@ -1,0 +1,5 @@
+Server Type: Database Engine	
+Server name: clouddb.csxil53pu1c8.eu-west-1.rds.amazonaws.com
+Authentication: SQL Server Authentication
+	Login: ptdbuser
+	Password: ptdb1234#
