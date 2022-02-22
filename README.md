@@ -13,6 +13,7 @@ Database Level-up Group Practical
 ### Abie Knepscheld
  - Create Git Repo
  - Create AWS instance 
+ - Worked on ERD logic and drew up a few different ERD's
  - Create ERD on Lucid Chart (Whole team Contributed to discusion)
  - Create Personal Trainer DB
  - Create Table for Trainer
@@ -20,20 +21,30 @@ Database Level-up Group Practical
 
  ### Lieb Schutte (UI/UX)
  - Create Wireframes
- - Create Bridge Tables
+ - Create Bridge Tables (Workout_plan + Workout_Exercise)
   
- ###
+ ### Reece Peters
+ - Worked on ERD logic and drew up a few different ERD's
+ - Create Session Table 
+ - Populate sample data for Session Table
 
 
 
-
- ###
-
-
-
-
- ###
+ ### Letty Mashiane
+- Worked on ERD logic and drew up a few different ERD's
+- Create Client Table
+- Populate sample Data for Client Table
 
 
 
- ###
+ ### Rushil Daya
+ - Worked on ERD logic and drew up a few different ERD's
+ - Create Workout Table
+ - Populate sample Data for Workout table
+
+
+
+ ### Thabiso Makolana 
+ - Worked on ERD logic and drew up a few different ERD's
+ - Create Exercise Table
+ - Populate sample Data for Exercise Table
