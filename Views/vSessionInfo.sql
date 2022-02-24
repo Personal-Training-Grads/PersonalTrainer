@@ -1,7 +1,7 @@
 USE [PersonalTrainer]
 GO
 
-/****** Object:  View [dbo].[vSessionInfo]    Script Date: 2022/02/24 10:50:03 ******/
+/****** Object:  View [dbo].[vSessionInfo]    Script Date: 2022/02/24 18:45:41 ******/
 SET ANSI_NULLS ON
 GO
 
@@ -12,7 +12,7 @@ GO
 --select * from Client
 
 --select * from Workout
-Alter VIEW [dbo].[vSessionInfo]
+ALTER VIEW [dbo].[vSessionInfo]
 AS
 select (Client.Client_Name + ' ' + Client.Client_Surname) as Client_FullName, [Session].Session_Date, (Trainer.Trainer_Name + ' ' + Trainer.Trainer_Surname) as Trainer_FullName, Workout.Workout_Name, Workout.Workout_Type,Workout.Workout_DifficultyLevel from Client
 --select [Session].Session_Date, [Session].Trainer_ID from [Session]
