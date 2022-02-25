@@ -13,7 +13,7 @@ CREATE TABLE [dbo].[Exercise](
 	[Exercise_Name] [varchar](50) NOT NULL,
 	[Exercise_Type] [varchar](50) NULL,
 	[Exercise_Instructions] [varchar](500) NULL,
-	[Exercise_HyperLink] [varchar](max) NULL,
+	[Exercise_HyperLink] [varchar](2083) NULL,
  CONSTRAINT [PK_Exercise] PRIMARY KEY CLUSTERED 
 (
 	[Exercise_ID] ASC
