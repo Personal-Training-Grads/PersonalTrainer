@@ -41,10 +41,11 @@ Database Level-up Group Practical
  - Worked on ERD logic and drew up a few different ERD's
  - Create Workout Table
  - Populate sample Data for Workout table
-
+ - Populate sample Data for Exercise Table
 
 
  ### Thabiso Makolana 
  - Worked on ERD logic and drew up a few different ERD's
  - Create Exercise Table
  - Populate sample Data for Exercise Table
+ - Create aggregate user defined function, to calculate average session time of user
