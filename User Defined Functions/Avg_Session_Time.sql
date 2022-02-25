@@ -8,14 +8,8 @@ GO
 SET QUOTED_IDENTIFIER ON
 GO
 
--- =============================================
--- Author:		<Author,,Name>
--- Create date: <Create Date, ,>
--- Description:	<Description, ,>
--- =============================================
 CREATE FUNCTION [dbo].[Average_Session_Time]
 (
-	-- Add the parameters for the function here
 	@ID int
 )
 RETURNS int
